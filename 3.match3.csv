@@ -1,0 +1,41 @@
+matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
+1,1,1st,4 0 0 0 0 0,4,0,4,0,Shubman Gill,0,0,Nitish Rana,4,6,Bhuvneshwar Kumar,4 - 0
+1,2,1st,0 1 4 0 4 0,9,0,9,0,Shubman Gill,1,2,Nitish Rana,12,10,Sandeep Sharma,13 - 0
+1,3,1st,4 1 0 0 1 0,6,0,6,0,Shubman Gill,6,5,Nitish Rana,13,13,Bhuvneshwar Kumar,19 - 0
+1,4,1st,4 4 4 1 0 1,14,0,14,0,Shubman Gill,7,7,Nitish Rana,26,17,Sandeep Sharma,33 - 0
+1,5,1st,6 1 0 0 4 1,12,0,12,0,Shubman Gill,14,9,Nitish Rana,31,21,T Natarajan,45 - 0
+1,6,1st,0 4 0 1 0 0,5,0,5,0,Shubman Gill,14,11,Nitish Rana,36,25,Mohammad Nabi,50 - 0
+1,7,1st,1 1 0 0 1 W,3,0,3,1,Shubman Gill,15,13,Nitish Rana,38,29,Rashid Khan,53 - 1
+1,8,1st,1 1 1 6 2 0 ,11,0,11,0,Rahul Tripathi,9,4,Nitish Rana,40,31,Mohammad Nabi,64 - 1
+1,9,1st,0 1 0 1 1 2,5,0,5,0,Rahul Tripathi,12,7,Nitish Rana,42,34,Rashid Khan,69 - 1
+1,10,1st,1 4 1 1 1 6,14,0,14,0,Rahul Tripathi,18,10,Nitish Rana,50,37,Vijay Shankar,83 - 1
+1,11,1st,1 1 0 1 0 6 ,9,0,9,0,Rahul Tripathi,20,13,Nitish Rana,57,40,T Natarajan,92 - 1
+1,12,1st,4 1 6 1 0 1,13,0,13,0,Rahul Tripathi,26,17,Nitish Rana,64,42,Mohammad Nabi,105 - 1
+1,13,1st,1 1 2 4 1 0,9,0,9,0,Rahul Tripathi,34,21,Nitish Rana,65,44,Rashid Khan,114 - 1
+1,14,1st,2 1 6 0 1 2,12,0,12,0,Rahul Tripathi,39,24,Nitish Rana,72,47,Sandeep Sharma,126 - 1
+1,15,1st,4 1 6 4 0 4 ,19,0,19,0,Rahul Tripathi,53,28,Nitish Rana,77,49,Bhuvneshwar Kumar,145 - 1
+1,16,1st,1 W 1 4 0 1,7,0,7,1,Andre Russell,5,3,Nitish Rana,79,51,T Natarajan,152 - 2
+1,17,1st,Wd5 0 W 0 0 1 1,2,5,7,1,Eoin Morgan,1,1,Nitish Rana,80,54,Rashid Khan,159 - 3
+1,18,1st,1 0 W W 1 1,3,0,3,2,Shakib Al Hasan,1,1,Dinesh Karthik,1,1,Mohammad Nabi,162 - 5
+1,19,1st,Wd 1 1 0 1 4 1,8,1,9,0,Shakib Al Hasan,3,4,Dinesh Karthik,7,4,T Natarajan,171 - 5
+1,20,1st,6 4 2 Wd 2 1 W,15,1,16,1,Shakib Al Hasan,3,5,Dinesh Karthik,22,9,Bhuvneshwar Kumar,187 - 6
+1,1,2nd,0 0 1 1 0 6,8,0,8,0,Wriddhiman Saha,7,5,David Warner,1,1,Harbhajan Singh,8 - 0
+1,2,2nd,2 0 W 0 0 0,2,0,2,1,Wriddhiman Saha,7,5,Manish Pandey,0,3,Prasidh Krishna,10 - 1
+1,3,2nd,W 0 0 0 0 1,1,0,1,1,Jonny Bairstow,1,5,Manish Pandey,0,3,Shakib Al Hasan,11 - 2
+1,4,2nd,2 1 5 1 0 0,9,0,9,0,Jonny Bairstow,5,8,Manish Pandey,5,6,Prasidh Krishna,20 - 2
+1,5,2nd,0 6 1 0 4 1,12,0,12,0,Jonny Bairstow,12,11,Manish Pandey,10,9,Shakib Al Hasan,32 - 2
+1,6,2nd,1 0 1 0 0 1,3,,3,0,Jonny Bairstow,13,13,Manish Pandey,12,13,Pat Cummins,35 - 2
+1,7,2nd,1 1 6 1 1 0,10,0,10,0,Jonny Bairstow,15,15,Manish Pandey,20,17,Shakib Al Hasan,45 - 2
+1,8,2nd,4 0 6 0 4 1,15,0,15,0,Jonny Bairstow,30,21,Manish Pandey,20,17,Andre Russell,60 - 2
+1,9,2nd,4 1 2 1 1 0,9,0,9,0,Jonny Bairstow,36,24,Manish Pandey,23,20,Pat Cummins,69 - 2
+1,10,2nd,0 1 2 1 4 0,7,0,7,0,Jonny Bairstow,41,28,Manish Pandey,26,22,Varun Chakravarthy,77 - 2
+1,11,2nd,Wd 4 0 1 Wd 4 0 1,10,2,12,0,Jonny Bairstow,46,31,Manish Pandey,31,25,Prasidh Krishna,89 - 2
+1,12,2nd,6 0 1 1 1 2,11,0,11,0,Jonny Bairstow,54,35,Manish Pandey,34,27,Varun Chakravarthy,100 - 2
+1,13,2nd,1 1 0 0 0 W,2,0,2,1,Jonny Bairstow,55,40,Manish Pandey,35,28,Pat Cummins,102 - 3
+1,14,2nd,1 1 1 1 6 1,11,0,11,0,Mohammad Nabi,2,2,Manish Pandey,44,32,Shakib Al Hasan,113 - 3
+1,15,2nd,1 2 0 L1 1 1,5,1,6,0,Mohammad Nabi,5,6,Manish Pandey,46,34,Varun Chakravarthy,119 - 3
+1,16,2nd,1 1 4 Wd 0 4 Wd W,10,2,12,1,Mohammad Nabi,14,11,Manish Pandey,47,35,Prasidh Krishna,131 - 4
+1,17,2nd,2 1 B1 1 2 6,12,1,13,0,Vijay Shankar,8,3,Manish Pandey,51,38,Varun Chakravarthy,144 - 4
+1,18,2nd,1 1 Wd 1 2 0 W,5,1,6,1,Vijay Shankar,11,7,Manish Pandey,53,40,Andre Russell,150 - 5
+1,19,2nd,1 6 2 6 1 0,16,0,16,0,Abdul Samad,15,4,Manish Pandey,54,12,Pat Cummins,166 - 5
+1,20,2nd,2 0 1 1 1 6,11,0,11,0,Abdul Samad,19,8,Manish Pandey,61,44,Andre Russell,177 - 5
