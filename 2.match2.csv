@@ -1,41 +1,41 @@
 matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
-1,1,1st,0 0 4 L1 0 0,4,1,5,0,Faf du Plessis,0,2,Ruturaj Gaikwad,4,4,Chris Woakes,5-0
-1,2,1st,Wd 0 0 1 W 0 0,1,1,2,1,Moeen Ali,0,2,Ruturaj Gaikwad,5,7,Avesh Khan,7 - 1
-1,3,1st,W 0 0 0 0 4,4,0,4,1,Moeen Ali,0,2,Suresh Raina,4,5,Chris Woakes,11 - 2
-1,4,1st,0 0 0 4 4 1,9,0,9,0,Moeen Ali,9,8,Suresh Raina,4,5,Avesh Khan,20-2
-1,5,1st,1 0 4 4 L1 0,9,1,10,0,Moeen Ali,10,10,Suresh Raina,12,9,Ravichandran Ashwin,30 - 2
-1,6,1st,1 1 0 0 1 0,3,0,3,0,Moeen Ali,11,12,Suresh Raina,14,13,Tom Curran,33 - 2
-1,7,1st,1 4 4 0 1 0,10,0,10,0,Moeen Ali,20,16,Suresh Raina,15,15,Ravichandran Ashwin,43 - 2
-1,8,1st,2 0 0 1 1 1,5,0,5,0,Moeen Ali,24,21,Suresh Raina,16,16,Amit Mishra,48 - 2
-1,9,1st,6 6 W 0 0 6,18,0,18,1,Ambati Rayudu,0,0,Suresh Raina,22,19,Ravichandran Ashwin,66 - 3
-1,10,1st,1 1 0 1 0 2,5,0,5,0,Ambati Rayudu,2,3,Suresh Raina,25,22,Amit Mishra,71 - 3
-1,11,1st,6 1 1 0 1 1,10,0,10,0,Ambati Rayudu,10,7,Suresh Raina,27,24,Ravichandran Ashwin,81 - 3
-1,12,1st,6 2 6 1 1 1,17,0,17,0,Ambati Rayudu,11,8,Suresh Raina,43,29,Amit Mishra,98 - 3
-1,13,1st,1 N6 L4 0 1 0 6,14,5,19,0,Ambati Rayudu,18,12,Suresh Raina,53,32,Marcus Stoinis,117 - 3
-1,14,1st,0 1 1 4 W 1,7,0,7,1,Ravindra Jadeja,0,0,Suresh Raina,54,34,Tom Curran,124 - 5
-1,15,1st,1 4 4 L1 1 1,11,1,12,0,Ravindra Jadeja,9,4,Suresh Raina,54,36,Marcus Stoinis,136 - 4
-1,16,1st,W1 0 W 4 1 1,7,0,7,2,Ravindra Jadeja,11,6,Sam Curran,5,2,Avesh Khan,143 - 6
-1,17,1st,1 1 0 1 0 4,7,0,7,0,Ravindra Jadeja,13,9,Sam Curran,10,5,Tom Curran,150 - 6
-1,18,1st,1 0 1 1 1 1,5,0,5,0,Ravindra Jadeja,16,12,Sam Curran,12,8,Avesh Khan,155 - 6
-1,19,1st,4 1 Wd 6 6 4 1,22,1,23,0,Ravindra Jadeja,21,14,Sam Curran,29,12,Tom Curran,173 - 6
-1,20,1st,4 1 2 2 1 W,10,0,10,1,Ravindra Jadeja,26,17,Sam Curran,34,15,Chris Woakes,188 - 7
-1,1,2nd,0 4 1 4 0 0,9,0,9,0,Shikhar Dhawan,4,3,Prithvi Shaw,5,3,Deepak Chahar,9 - 0
-1,2,2nd,1 0 0 4 1 1,7,0,7,0,Shikhar Dhawan,9,7,Prithvi Shaw,9,7,Sam Curran,16 - 0
-1,3,2nd,0 6 0 0 1 1,9,0,9,0,Shikhar Dhawan,10,8,Prithvi Shaw,14,10,Deepak Chahar,24 - 0
-1,4,2nd,1 1 4 6 1 4,17,0,17,0,Shikhar Dhawan,22,12,Prithvi Shaw,19,12,Sam Curran,41 - 0
-1,5,2nd,0 4 1 4 4 4,17,0,17,0,Shikhar Dhawan,27,15,Prithvi Shaw,31,15,Shardul Thakur,58 - 0
-1,6,2nd,1 4 0 1 0 1,7,0,7,0,Shikhar Dhawan,29,18,Prithvi Shaw,36,18,Deepak Chahar,65 - 0
-1,7,2nd,1 1 0 1 1 1,5,0,5,0,Shikhar Dhawan,32,22,Prithvi Shaw,38,20,Ravindra Jadeja,70 - 0
-1,8,2nd,1 1 0 1 1 1,5,0,5,0,Shikhar Dhawan,35,26,Prithvi Shaw,40,22,Moeen Ali,75 - 0
-1,9,2nd,1 1 2 1 6 0,11,0,11,0,Shikhar Dhawan,39,29,Prithvi Shaw,47,25,Ravindra Jadeja,86 - 0
-1,10,2nd,6 1 1 0 1 4,13,0,13,0,Shikhar Dhawan,47,33,Prithvi Shaw,52,27,Moeen Ali,99 - 0
-1,11,2nd,2 1 4 1 2 4,14,0,14,0,Shikhar Dhawan,56,37,Prithvi Shaw,57,29,Shardul Thakur,113 - 0
-1,12,2nd,1 4 1 0 1 1,8,0,8,0,Shikhar Dhawan,62,40,Prithvi Shaw,59,32,Dwayne Bravo,121 - 0
-1,13,2nd,N 1 1 1 6 4 1,14,1,15,0,Shikhar Dhawan,64,43,Prithvi Shaw,71,36,Moeen Ali,136 - 0
-1,14,2nd,1 1 W 1 0 0,3,0,3,1,Shikhar Dhawan,66,45,Rishabh Pant,0,2,Dwayne Bravo,139 - 1
-1,15,2nd,4 1 4 1 1 1,12,0,12,0,Shikhar Dhawan,72,48,Rishabh Pant,6,5,Deepak Chahar,151 - 1
-1,16,2nd,0 1 4 0 1 Wd 0,6,1,7,0,Shikhar Dhawan,77,51,Rishabh Pant,7,8,Dwayne Bravo,158 - 1
-1,17,2nd,4 4 Wd W 0 4 Wd 0,12,2,14,1,Marcus Stoinis,4,3,Rishabh Pant,7,8,Shardul Thakur,172 - 2
-1,18,2nd,1 1 2 1 4 1,10,0,10,0,Marcus Stoinis,10,6,Rishabh Pant,11,11,Dwayne Bravo,182 - 2
-1,19,2nd,4 0 W 4,8,0,8,1,Shimron Hetmyer,0,0,Rishabh Pant,15,12,Shardul Thakur,190 - 3
-1,20,2nd,,,,0,,,,,,,,,
+2,1,1st,0 0 4 L1 0 0,4,1,5,0,Faf du Plessis,0,2,Ruturaj Gaikwad,4,4,Chris Woakes,5-0
+2,2,1st,Wd 0 0 1 W 0 0,1,1,2,1,Moeen Ali,0,2,Ruturaj Gaikwad,5,7,Avesh Khan,7 - 1
+2,3,1st,W 0 0 0 0 4,4,0,4,1,Moeen Ali,0,2,Suresh Raina,4,5,Chris Woakes,11 - 2
+2,4,1st,0 0 0 4 4 1,9,0,9,0,Moeen Ali,9,8,Suresh Raina,4,5,Avesh Khan,20-2
+2,5,1st,1 0 4 4 L1 0,9,1,10,0,Moeen Ali,10,10,Suresh Raina,12,9,Ravichandran Ashwin,30 - 2
+2,6,1st,1 1 0 0 1 0,3,0,3,0,Moeen Ali,11,12,Suresh Raina,14,13,Tom Curran,33 - 2
+2,7,1st,1 4 4 0 1 0,10,0,10,0,Moeen Ali,20,16,Suresh Raina,15,15,Ravichandran Ashwin,43 - 2
+2,8,1st,2 0 0 1 1 1,5,0,5,0,Moeen Ali,24,21,Suresh Raina,16,16,Amit Mishra,48 - 2
+2,9,1st,6 6 W 0 0 6,18,0,18,1,Ambati Rayudu,0,0,Suresh Raina,22,19,Ravichandran Ashwin,66 - 3
+2,10,1st,1 1 0 1 0 2,5,0,5,0,Ambati Rayudu,2,3,Suresh Raina,25,22,Amit Mishra,71 - 3
+2,11,1st,6 1 1 0 1 1,10,0,10,0,Ambati Rayudu,10,7,Suresh Raina,27,24,Ravichandran Ashwin,81 - 3
+2,12,1st,6 2 6 1 1 1,17,0,17,0,Ambati Rayudu,11,8,Suresh Raina,43,29,Amit Mishra,98 - 3
+2,13,1st,1 N6 L4 0 1 0 6,14,5,19,0,Ambati Rayudu,18,12,Suresh Raina,53,32,Marcus Stoinis,117 - 3
+2,14,1st,0 1 1 4 W 1,7,0,7,1,Ravindra Jadeja,0,0,Suresh Raina,54,34,Tom Curran,124 - 5
+2,15,1st,1 4 4 L1 1 1,11,1,12,0,Ravindra Jadeja,9,4,Suresh Raina,54,36,Marcus Stoinis,136 - 4
+2,16,1st,W1 0 W 4 1 1,7,0,7,2,Ravindra Jadeja,11,6,Sam Curran,5,2,Avesh Khan,143 - 6
+2,17,1st,1 1 0 1 0 4,7,0,7,0,Ravindra Jadeja,13,9,Sam Curran,10,5,Tom Curran,150 - 6
+2,18,1st,1 0 1 1 1 1,5,0,5,0,Ravindra Jadeja,16,12,Sam Curran,12,8,Avesh Khan,155 - 6
+2,19,1st,4 1 Wd 6 6 4 1,22,1,23,0,Ravindra Jadeja,21,14,Sam Curran,29,12,Tom Curran,173 - 6
+2,20,1st,4 1 2 2 1 W,10,0,10,1,Ravindra Jadeja,26,17,Sam Curran,34,15,Chris Woakes,188 - 7
+2,1,2nd,0 4 1 4 0 0,9,0,9,0,Shikhar Dhawan,4,3,Prithvi Shaw,5,3,Deepak Chahar,9 - 0
+2,2,2nd,1 0 0 4 1 1,7,0,7,0,Shikhar Dhawan,9,7,Prithvi Shaw,9,7,Sam Curran,16 - 0
+2,3,2nd,0 6 0 0 1 1,9,0,9,0,Shikhar Dhawan,10,8,Prithvi Shaw,14,10,Deepak Chahar,24 - 0
+2,4,2nd,1 1 4 6 1 4,17,0,17,0,Shikhar Dhawan,22,12,Prithvi Shaw,19,12,Sam Curran,41 - 0
+2,5,2nd,0 4 1 4 4 4,17,0,17,0,Shikhar Dhawan,27,15,Prithvi Shaw,31,15,Shardul Thakur,58 - 0
+2,6,2nd,1 4 0 1 0 1,7,0,7,0,Shikhar Dhawan,29,18,Prithvi Shaw,36,18,Deepak Chahar,65 - 0
+2,7,2nd,1 1 0 1 1 1,5,0,5,0,Shikhar Dhawan,32,22,Prithvi Shaw,38,20,Ravindra Jadeja,70 - 0
+2,8,2nd,1 1 0 1 1 1,5,0,5,0,Shikhar Dhawan,35,26,Prithvi Shaw,40,22,Moeen Ali,75 - 0
+2,9,2nd,1 1 2 1 6 0,11,0,11,0,Shikhar Dhawan,39,29,Prithvi Shaw,47,25,Ravindra Jadeja,86 - 0
+2,10,2nd,6 1 1 0 1 4,13,0,13,0,Shikhar Dhawan,47,33,Prithvi Shaw,52,27,Moeen Ali,99 - 0
+2,11,2nd,2 1 4 1 2 4,14,0,14,0,Shikhar Dhawan,56,37,Prithvi Shaw,57,29,Shardul Thakur,113 - 0
+2,12,2nd,1 4 1 0 1 1,8,0,8,0,Shikhar Dhawan,62,40,Prithvi Shaw,59,32,Dwayne Bravo,121 - 0
+2,13,2nd,N 1 1 1 6 4 1,14,1,15,0,Shikhar Dhawan,64,43,Prithvi Shaw,71,36,Moeen Ali,136 - 0
+2,14,2nd,1 1 W 1 0 0,3,0,3,1,Shikhar Dhawan,66,45,Rishabh Pant,0,2,Dwayne Bravo,139 - 1
+2,15,2nd,4 1 4 1 1 1,12,0,12,0,Shikhar Dhawan,72,48,Rishabh Pant,6,5,Deepak Chahar,151 - 1
+2,16,2nd,0 1 4 0 1 Wd 0,6,1,7,0,Shikhar Dhawan,77,51,Rishabh Pant,7,8,Dwayne Bravo,158 - 1
+2,17,2nd,4 4 Wd W 0 4 Wd 0,12,2,14,1,Marcus Stoinis,4,3,Rishabh Pant,7,8,Shardul Thakur,172 - 2
+2,18,2nd,1 1 2 1 4 1,10,0,10,0,Marcus Stoinis,10,6,Rishabh Pant,11,11,Dwayne Bravo,182 - 2
+2,19,2nd,4 0 W 4,8,0,8,1,Shimron Hetmyer,0,0,Rishabh Pant,15,12,Shardul Thakur,190 - 3
+2,20,2nd,,,,0,,,,,,,,,
