@@ -1,0 +1,41 @@
+matchno,over no,ing,perballscore,runsbybatsman,extraruns,total run scored,noofwicketsfall,batsman1,batsman1runs,batsman1playedballs,batsman2,batsman2runs,batsman2playedballs,bowler,matchscore
+6,1,1st,0 4 1 0 0 1,6,0,6,0,Devdutt Padikkal,1,3,Virat Kohli,5,3,Bhuvneshwar Kumar,6 - 0
+6,2,1st,4 0 0 0 Wd 4 1,9,1,10,0,Devdutt Padikkal,10,9,Virat Kohli,5,3,Jason Holder,16 - 0
+6,3,1st,1 1 0 0 Wd W 1,3,1,4,1,Shahbaz Ahmed,1,1,Virat Kohli,6,4,Bhuvneshwar Kumar,20 - 1
+6,4,1st,1 0 1 0 3 1,6,0,6,0,Shahbaz Ahmed,5,4,Virat Kohli,8,7,Jason Holder,26 - 1
+6,5,1st,0 1 6 1 1 1,10,0,10,0,Shahbaz Ahmed,13,7,Virat Kohli,10,10,Shahbaz Nadeem,36 - 1
+6,6,1st,L1 4 1 1 4 0,10,1,11,0,Shahbaz Ahmed,14,9,Virat Kohli,19,14,T Natarajan,47 - 1
+6,7,1st,W 1 0 0 0 0,1,0,1,1,Glenn Maxwell,0,4,Virat Kohli,20,15,Shahbaz Nadeem,48 - 2
+6,8,1st,1 Wd 4 0 0 1 0,6,1,7,0,Glenn Maxwell,5,8,Virat Kohli,21,17,Rashid Khan,55 - 2
+6,9,1st,1 1 0 0 0 1,0,0,0,0,Glenn Maxwell,7,13,Virat Kohli,22,18,Shahbaz Nadeem,58 - 2
+6,10,1st,1 1 L1 1 1 0,4,1,5,0,Glenn Maxwell,9,16,Virat Kohli,24,21,Rashid Khan,63 - 2
+6,11,1st,6 4 6 1 4 1,22,0,22,0,Glenn Maxwell,26,20,Virat Kohli,29,23,Shahbaz Nadeem,85 - 2
+6,12,1st,2 Wd 0 1 1 0 1,5,1,6,0,Glenn Maxwell,27,21,Virat Kohli,32,28,T Natarajan,91 - 2
+6,13,1st,W 0 1 0 0 0,1,0,1,1,Glenn Maxwell,28,23,AB de Villiers,0,3,Jason Holder,92 - 3
+6,14,1st,1 1 1 W 0 1,4,0,4,1,Glenn Maxwell,30,25,Washington Sundar,1,2,Rashid Khan,96 - 4
+6,15,1st,4 1 1 0 0 1,7,0,7,0,Glenn Maxwell,31,26,Washington Sundar,7,7,Bhuvneshwar Kumar,103 - 4
+6,16,1st,0 0 1 1 W 1,3,0,3,1,Glenn Maxwell,33,28,Daniel Christian,0,0,Rashid Khan,106 - 5
+6,17,1st,1 1 1 W 0 1,4,0,4,1,Glenn Maxwell,35,30,Kyle Jamieson,1,2,T Natarajan,110 - 6
+6,18,1st,4 L1 4 1 4 0,13,1,14,0,Glenn Maxwell,40,32,Kyle Jamieson,9,6,Bhuvneshwar Kumar,124 - 6
+6,19,1st,1 2 1 4 0 4,12,0,12,0,Glenn Maxwell,49,36,Kyle Jamieson,12,8,T Natarajan,136 - 6
+6,20,1st,W 0 2 Wd 6 Wd 2 Wd W,10,3,13,2,Glenn Maxwell,59,41,Harshal Patel,0,0,Jason Holder,149 - 8
+6,1,2nd,0 0 0 0 0 B4,0,4,4,0,Wriddhiman Saha,0,6,David Warner,0,0,Mohammed Siraj,4 - 0
+6,2,2nd,Wd 0 1 1 2 4 0,8,1,9,0,Wriddhiman Saha,1,7,David Warner,7,5,Kyle Jamieson,13 - 0
+6,3,2nd,0 W 0 0 Wd 0 1,1,1,2,1,Manish Pandey,1,4,David Warner,7,5,Mohammed Siraj,15 - 1
+6,4,2nd,0 6 1 4 0 6,17,0,17,0,Manish Pandey,8,7,David Warner,17,8,Kyle Jamieson,32 - 1
+6,5,2nd,0 0 0 4 Wd 1 0,5,1,6,0,Manish Pandey,13,12,David Warner,17,9,Washington Sundar,38 - 1
+6,6,2nd,0 1 2 4 4 1,12,0,12,0,Manish Pandey,14,14,David Warner,28,13,Mohammed Siraj,50 - 1
+6,7,2nd,Wd 1 4 0 1 0 0,6,1,7,0,Manish Pandey,19,17,David Warner,29,16,Yuzvendra Chahal,57 - 1
+6,8,2nd,1 1 0 6 0 0,8,0,8,0,Manish Pandey,26,22,David Warner,30,17,Washington Sundar,65 - 1
+6,9,2nd,1 1 1 2 0 0,5,0,5,0,Manish Pandey,29,26,David Warner,32,19,Yuzvendra Chahal,70 - 1
+6,10,2nd,4 1 1 0 0 1,7,0,7,0,Manish Pandey,30,27,David Warner,38,24,Harshal Patel,77 - 1
+6,11,2nd,4 0 4 1 1 0,10,0,10,0,Manish Pandey,31,28,David Warner,47,29,Yuzvendra Chahal,87 - 1
+6,12,2nd,0 0 0 0 1 1,2,0,2,0,Manish Pandey,32,33,David Warner,48,30,Harshal Patel,89 - 1
+6,13,2nd,2 2 1 1 0 1,7,0,7,0,Manish Pandey,33,34,David Warner,54,35,Daniel Christian,96 - 1
+6,14,2nd,0 W L2 0 0 4,5,1,6,1,Manish Pandey,33,34,Jonny Bairstow,4,4,Kyle Jamieson,102 - 2
+6,15,2nd,1 0 1 2 1 1,6,0,6,0,Manish Pandey,37,37,Jonny Bairstow,6,7,Shahbaz Ahmed,108 - 2
+6,16,2nd,0 3 1 0 2 1,7,0,7,0,Manish Pandey,38,38,Jonny Bairstow,12,12,Yuzvendra Chahal,115 - 2
+6,17,2nd,W W 0 1 0 W,1,0,1,3,Abdul Samad,0,2,Vijay Shankar,1,2,Shahbaz Ahmed,116 - 5
+6,18,2nd,1 1 1 N 2 1 W,6,1,7,1,Jason Holder,4,4,Vijay Shankar,3,5,Harshal Patel,123 - 6
+6,19,2nd,6 1 W 2 2 0,11,0,11,1,Rashid Khan,11,5,Bhuvneshwar Kumar,0,0,Mohammed Siraj,134 - 7
+6,20,2nd,1 2 N4 0 W W 1,9,0,9,2,T Natarajan,0,0,,2,2,Harshal Patel,143 - 9
